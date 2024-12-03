@@ -3,10 +3,10 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=usuario123&show_icons=true&theme=radical)<br>
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=usuario123&layout=compact&theme=radical)<br>
 
+
+![Trofeos](https://github-profile-trophy.vercel.app/?username=usuario123&theme=monokai)<br>
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Trofeos](https://github-profile-trophy.vercel.app/?username=usuario123&theme=monokai)
-
-
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
 
