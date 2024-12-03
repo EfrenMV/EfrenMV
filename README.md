@@ -2,10 +2,7 @@
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=usuario123&show_icons=true&theme=radical)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=usuario123&layout=compact&theme=radical)
 
- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Trofeos](https://github-profile-trophy.vercel.app/?username=usuario123&theme=monokai)
 
 
