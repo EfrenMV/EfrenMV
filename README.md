@@ -7,6 +7,8 @@
 ![Trofeos](https://github-profile-trophy.vercel.app/?username=usuario123&theme=monokai)<br>
 -->
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![MYSQL](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![XAMP](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
 
